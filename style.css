@@ -1,0 +1,22 @@
+@charset "utf-8";
+.column form label {
+
+}
+.row .column form {
+    background-color: #9DEEC7;
+}
+.column form input {
+    background-color: #31C7A4;
+}
+.column form #country {
+    background-color: #31C7A4;
+}
+.column form #subject {
+    background-color: #31C7A4;
+}
+.column form #fname {
+    background-color: #31C7A4;
+}
+.container div h2 {
+
+}
